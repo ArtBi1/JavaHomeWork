@@ -1,2 +1,7 @@
-июл. 05, 2023 5:45:52 PM Task04 writeToFile
-INFO: шалость удалась
+
+июл. 12, 2023 1:08:59 AM Task04 writeToFile
+INFO: Успешно
+июл. 12, 2023 1:09:06 AM Task04 writeToFile
+INFO: Успешно
+июл. 12, 2023 1:09:51 AM Task04 writeToFile
+INFO: Успешно

@@ -1,0 +1,5 @@
+ASUS;notebook;gdf45sq;14;i5;8;SSD;256;Win10;60000
+Acer;notebook;axx-145f;14;i7;16;SSD;512;Ubuntu;70000
+Lenovo;notebook;df4lgf;15;i3;6;HDD;512;Win7;50000
+Dell;notebook;txf432;17;i7;6;SSD;512;Win11;90000
+HP;subnotebook;2133;9;C7M;2;HDD;128;WinXP;80000
